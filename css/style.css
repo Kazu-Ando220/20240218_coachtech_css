@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.bg {
+    background: url ("../img/firstview.jpg") no-repeat bottom;
+    background-size: cover;
+    width: 100px;
+    /* 高さを指定 */
+    height: 700px;
+}
